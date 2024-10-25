@@ -1,0 +1,1 @@
+# winaze mqonda davalebebi

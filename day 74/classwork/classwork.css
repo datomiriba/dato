@@ -1,0 +1,36 @@
+/* .paragraf{
+    color: blue;
+}
+
+.paragraf a{
+    color: red;
+}
+
+
+
+#a{
+    color: green;
+    text-decoration: none;
+}
+
+#a :hover{
+    color:  blue;
+    text-decoration: line-through;
+} */
+
+.id{
+    width: 100px;
+    height: 100px ;
+    color: red;
+}
+.id:hover{
+    width: 50px;
+    height: 50px;
+   background-color: green ;
+   margin-top: 200px;
+    transition: 0.5s;
+}
+.id:active{
+margin-top: 200px;
+color: blue;
+}
