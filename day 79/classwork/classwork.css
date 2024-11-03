@@ -1,0 +1,9 @@
+body{
+    background: green;
+}
+input{
+    color: red;
+border-radius: 10px;
+box-shadow: 1cm;
+font-family: 'Courier New', Courier, monospace;
+}
