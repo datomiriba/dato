@@ -1,0 +1,70 @@
+/* გლობალური სტილები */
+body {
+    font-family: 'Arial', sans-serif; /* ცალსახა font-family */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* მსუბუქი ფონი */
+    color: #333; /* ტექსტის ფერი */
+}
+
+header {
+    background-color: #3498db; /* ლურჯი ფონდი */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Verdana', sans-serif; /* სხვა font-family მხოლოდ h1 */
+    font-size: 2.5em; /* ტექსტის ზომა */
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* about секციის სტილი */
+.about {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff; /* თეთრი ფონდი */
+    border-radius: 8px;
+}
+
+h2 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* ფოტო галერია */
+.images {
+    padding: 20px;
+    text-align: center;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.img-item {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid #3498db; /* ლურჯი საზღვარი */
+}
+
+/* Footer */
+footer {
+    background-color: #2c3e50; /* მუქი ფონი */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

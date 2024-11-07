@@ -1,0 +1,1 @@
+print("cod varsebi dawerili maq")

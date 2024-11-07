@@ -1,0 +1,22 @@
+/* ცხრილის სტილები */
+table {
+    width: 80%; /* ცხრილის სიგანე */
+    margin: 20px auto; /* ცხრილის ცენტრში განლაგება */
+    border-collapse: collapse; /* საზღვრების გაერთიანება */
+}
+
+th, td {
+    border: 1px solid #3498db; /* საზღვრები ცხრილის უჯრებზე */
+    padding: 10px 20px 30px 40px; /* padding სხვადასხვა მიმართულებით */
+    text-align: center; /* ტექსტის ცენტრირება */
+}
+
+/* წარწერების სტილი */
+th {
+    background-color: #3498db; /* თასის ფერი */
+    color: white; /* თასის ტექსტის ფერი */
+}
+
+td {
+    background-color: #f2f2f2; /* უჯრის ფონური ფერი */
+}

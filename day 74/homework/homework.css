@@ -1,0 +1,38 @@
+/* ყველა არასდროს დაჭერილი ლინკი ლურჯი იქნება */
+a:link {
+    color: #3498db; /* ლურჯი ფერი */
+    text-decoration: none; /* ხაზის ამოღება */
+}
+
+/* სხვა სტილები */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    font-size: 1.2em;
+}
