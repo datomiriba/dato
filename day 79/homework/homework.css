@@ -1,47 +1,12 @@
 /* 1)შექმენით რამოდენიმე input  , password  და , email  შემდეგ გასტილეთ  გამოიყენეთ box- shadow, padding, margin, border-radius. */
-/* body{
+ body{
     background: green;
-box-shadow: 10px;
-padding: auto;
-margin: auto;
-border-radius: 10px;
-text-align: center;
-} */
-
-/* 2) შექმნით ორი input  სახელის და გვარის შესატანი ასევე ერთი button რომელიც თავიდან იქნება წითელი და ხელს რომ მიტან უნდა გახდეს მწვანე გაუწერეთ input -ს border- radius.
- */
-/* input{
+    box-shadow: 10px;
+    padding: 50px;
+    margin: 30px;
     border-radius: 10px;
-
-}
- #submit{
-color: red;
-} */
-
-
-/*3)შექმნით სარეგისტრაციო გრაფა რომელსაც ექნება border ასევე border -radius  background  ექნება მწვანე . */
-/* body{
-    border-radius: 15px;
-    background-color: green;
-} */
-
-/* 6)დაამატე input ელემენტს 10px border-radius. ასევე, შეუქმენე ჩრდილი (box-shadow), რომელიც იქნება 0 4px 8px rgba(0, 0, 0, 0.2). */
-/* input{
-    border-radius: 10px;
-box-shadow:0 4px 8px rgba(0, 0, 0, 0.2) ;
-} */
- /* 7)შექმენი input ელემენტი, რომელსაც აქვს 15px padding ყველა მხრიდან. უზრუნველყე, რომ ტექსტი იყოს მარცხნივ განლაგებული, მაგრამ placeholder ტექსტი იყოს ცენტრში */
- /* input{
-    padding: 15px; 
-}
-placeholder{
-text-align: center;
-} */
-
-/* 8) გააკეთეთ  10 input  რომელსაც მოათავსებთ ერთ div ში და ამ დივა გაუკეთებთ border-radius  დანარჩენი თქვენ გააფორმეთ. */
-
-/* div{
-    border-radius: 20px;
-    box-shadow: 20px;
     text-align: center;
-} */
+} 
+
+
+

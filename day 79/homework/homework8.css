@@ -1,0 +1,7 @@
+/* 8) გააკეთეთ  10 input  რომელსაც მოათავსებთ ერთ div ში და ამ დივა გაუკეთებთ border-radius  დანარჩენი თქვენ გააფორმეთ. */
+
+ div{
+    border-radius: 20px;
+    box-shadow: 20px;
+    text-align: center;
+} 

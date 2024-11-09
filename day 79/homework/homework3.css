@@ -1,0 +1,6 @@
+/*3)შექმნით სარეგისტრაციო გრაფა რომელსაც ექნება border ასევე border -radius  background  ექნება მწვანე . */
+ body{
+    border: 3px solid  color(srgb red green blue) ;
+    border-radius: 15px;
+    background-color: green;
+} 
