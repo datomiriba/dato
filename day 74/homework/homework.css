@@ -1,10 +1,9 @@
-/* ყველა არასდროს დაჭერილი ლინკი ლურჯი იქნება */
+
 a:link {
-    color: #3498db; /* ლურჯი ფერი */
-    text-decoration: none; /* ხაზის ამოღება */
+    color: #3498db; 
+    text-decoration: none; 
 }
 
-/* სხვა სტილები */
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
