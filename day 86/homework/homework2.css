@@ -1,0 +1,7 @@
+.parent{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    color: red;
+    text-align: end;
+}
