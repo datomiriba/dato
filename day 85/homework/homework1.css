@@ -1,5 +1,6 @@
 /* <3) შექმენით ერთი დივ რომელსაც მიანიჭებთ flex  შემდეგ მასში კიდევ შეიტანეთ ბევრი დივი გამოიყენეთ ყველა property რომელიც დღეს ისწავლეთ flex direction justify content align items align content  */
 .div1{
+    background:green;
     display: flex;
     flex-direction: column-reverse;
     flex-direction: column;
@@ -19,4 +20,8 @@
     align-content: center;
     align-content: end;
     align-content: start;
+}
+
+.div2{
+    background-color: blue;
 }

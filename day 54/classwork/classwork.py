@@ -1,4 +1,4 @@
-function funqciebi
+    function funqciebi
 return daruneba
 def sayhello():
      return("hello")
