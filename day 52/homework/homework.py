@@ -1,7 +1,6 @@
 
 my_list = []
 
-# 7 ელემენტის დამატება
 my_list.append(10)
 my_list.append(20)
 my_list.append(30)
