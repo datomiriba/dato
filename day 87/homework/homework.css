@@ -1,0 +1,19 @@
+.P1{
+    position: static;
+}
+
+.P2{
+    position: relative;
+}
+
+.P3{
+    position: absolute;
+}
+
+.P4{
+    position: fixed;
+}
+
+.P5{
+    position: sticky;
+}

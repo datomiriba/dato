@@ -1,0 +1,9 @@
+p{
+    background-color: blue;
+    color: green;
+    transition: 1s;
+}
+p:hover{
+color: darkred;
+    position: absolute;
+}
